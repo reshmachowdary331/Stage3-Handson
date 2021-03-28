@@ -1,12 +1,12 @@
 .Name{
-    font-weight: 300;
+    font-weight: 250;
     color :blue;
 }
 .School{
     color: crimson;
 }
 .Total{
-    color:darkmagenta;
+    color:red;
 }
 .formatstyle{
     text-align: center;
