@@ -5,7 +5,7 @@ import {CalculateScore} from '../src/Components/CalculateScore';
 function App() {
   return (
     <div className="App">
-      <CalculateScore Name={"Akhil"} School={"Dr.SRK EM School"}
+      <CalculateScore Name={"Reshma"} School={"Raghava high School"}
        total={490}
        goal={6}/>
     </div>
